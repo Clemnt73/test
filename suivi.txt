@@ -1,2 +1,0 @@
-Première ligne du fichier écrite depuis la branche master du dépôt
-Seconde ligne du fichier écrite depuis la branche beta du dépôt
